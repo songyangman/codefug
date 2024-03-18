@@ -29,7 +29,7 @@ I'm FE codefug
 <br />
 
 
-<--<a href="https://www.instagram.com/happy_fug">
+<!--<a href="https://www.instagram.com/happy_fug">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/codefug/codefug/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/codefug">
