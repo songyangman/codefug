@@ -13,8 +13,6 @@ I'm FE codefug
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![codefug's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefug&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/codefug/codefug "GitHub stats card Korean flag eddition")
-
 | <a href="https://github.com/codefug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codefug&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&" alt="Codefug's github stats" /></a> | <a href="https://github.com/codefug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefug&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
