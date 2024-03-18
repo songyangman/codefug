@@ -18,19 +18,21 @@ I'm FE codefug
 
 #### Top Repositories
 
-<a href="https://github.com/codefug/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codefug&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/codefug/WeatherAppProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codefug&repo=WeatherAppProject&theme=buefy" />
 </a>
-<a href="https://github.com/codefug/codefug.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codefug&repo=codefug.github.io&theme=buefy" />
+<a href="https://github.com/codefug/DramaProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codefug&repo=DramaProject&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+
+<--<a href="https://www.instagram.com/happy_fug">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/codefug/codefug/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/codefug">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/codefug/codefug/master/assets/codesandbox.svg" />
 </a>
+-->
