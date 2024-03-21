@@ -10,6 +10,9 @@ I'm FE codefug
 
 - 💬 Ask me about anything [codefug](https://github.com/codefug/codefug/issues/1)
 
+- <img src="https://github.com/codefug/codefug/assets/86544979/f894009f-f524-4f61-98da-d1ba1cd92322" style="width:20px" /> Here! I'm writing my post <a href="https://velog.io/@codefug"> My Blog </a>
+
+  
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
