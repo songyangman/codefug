@@ -19,7 +19,7 @@ I'm FE codefug
 |category|set|
 |-----|-----|
 |publishing|[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass)](https://skillicons.dev)|
-|language|[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)|
+|language|[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)|
 |FrameWork|[![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)|
 |RunTimeEnv|[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)|
 |collab|[![My Skills](https://skillicons.dev/icons?i=github,figma)](https://skillicons.dev)|
